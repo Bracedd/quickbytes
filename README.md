@@ -2,7 +2,7 @@
 
 A minimalist productivity dashboard built with Svelte, featuring daily goals tracking, focus timer, and mood tracking capabilities.
 
-![Quickbytes Dashboard](screenshot.png)
+![Quickbytes Dashboard](Screenshot.png)
 
 ## Features
 
